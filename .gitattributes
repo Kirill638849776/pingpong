@@ -1,0 +1,7 @@
+# Kotlin — основной язык
+*.kt linguist-language=Kotlin
+*.kts linguist-language=Kotlin
+*.bat linguist-language=Batchfile
+*.ps1 linguist-language=PowerShell
+*.jar linguist-vendored
+*.java linguist-language=Java
